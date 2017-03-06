@@ -1,4 +1,8 @@
-primeList=(0,1,2,3,4,5,6,7)
-	for i in primeList:
-		print i
-			if i 
+class primeList:
+	def solution (0,n):
+	for count in range(0,n):
+		if count == count%1
+		elif count == count%count
+		
+
+	return (count):	
